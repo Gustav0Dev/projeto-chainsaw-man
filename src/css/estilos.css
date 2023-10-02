@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik&family=Secular+One&display=swap");
 
 @font-face {
-  font-family: "Split On";
-  src: url("/src/fontes/SplitOn.ttf") format("truetype");
+  font-family: 'spliton';
+  src: url("/src/fonte/SplitOn.ttf");
 }
 
 body {
@@ -52,7 +52,7 @@ main .personagem .img {
 .conteudo .nome-personagem {
   color: white;
   font-size: 48px;
-  font-family: "Split On";
+  font-family: "spliton";
   font-weight: 500;
   margin-bottom: 20px;
 }
