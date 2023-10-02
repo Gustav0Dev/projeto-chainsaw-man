@@ -1,9 +1,10 @@
+@font-face {
+  font-family: 'Insomnia';
+  src: url(/src/fonte/Insomnia\ 1.ttf);
+}
 @import url("https://fonts.googleapis.com/css2?family=Rubik&family=Secular+One&display=swap");
 
-@font-face {
-  font-family: 'spliton';
-  src: url("/src/fonte/SplitOn.ttf");
-}
+
 
 body {
   background-color: #000000;
@@ -52,7 +53,7 @@ main .personagem .img {
 .conteudo .nome-personagem {
   color: white;
   font-size: 48px;
-  font-family: "spliton";
+  font-family: 'Insomnia';
   font-weight: 500;
   margin-bottom: 20px;
 }
