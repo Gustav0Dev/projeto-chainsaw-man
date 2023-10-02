@@ -53,9 +53,12 @@ main .personagem .img {
 .conteudo .nome-personagem{
     color: white;
     font-size: 48px;
-    font-family: 'Split On', sans-serif;
     font-weight: 400;
     margin-bottom: 20px
+}
+
+h2 {
+    font-family: 'split on';
 }
 
 .conteudo .descricao {
@@ -68,7 +71,7 @@ main .personagem .img {
     background: url("/src/imagens/Chainsaw_Man_logo.png") no-repeat;
     background-size: contain;
     height: 100px;
-    width: 300px;
+    width: 70%;
     margin-bottom: 30px;
 }
 
