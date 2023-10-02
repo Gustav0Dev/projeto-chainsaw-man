@@ -65,7 +65,7 @@ main .personagem .img {
 }
 
 .conteudo .logo {
-    background: url(/src/imagens/Chainsaw_Man_logo.png) no-repeat;
+    background: url("/src/imagens/Chainsaw_Man_logo.png") no-repeat;
     background-size: contain;
     height: 100px;
     width: 300px;
