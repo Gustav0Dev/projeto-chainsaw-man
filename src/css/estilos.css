@@ -1,7 +1,4 @@
-@font-face {
-  font-family: 'Insomnia';
-  src: url(/src/fonte/Insomnia\ 1.ttf);
-}
+
 @import url("https://fonts.googleapis.com/css2?family=Rubik&family=Secular+One&display=swap");
 
 
@@ -50,12 +47,12 @@ main .personagem .img {
   z-index: 1;
 }
 
-.conteudo .nome-personagem {
+.conteudo .nome-personagem{
   color: white;
   font-size: 48px;
-  font-family: 'Insomnia';
-  font-weight: 500;
-  margin-bottom: 20px;
+  font-family: 'Secular One', sans-serif;
+  font-weight: 400;
+  margin-bottom: 20px
 }
 
 .conteudo .descricao {
